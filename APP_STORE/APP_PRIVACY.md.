@@ -1,0 +1,152 @@
+# CARDORA App Privacy
+
+**Status:** Planned
+
+---
+
+# Overview
+
+This document describes how CARDORA collects, processes, stores, and protects user data for Apple's App Privacy requirements.
+
+All privacy information submitted to App Store Connect must accurately reflect the application's actual behavior.
+
+---
+
+# Personal Information
+
+CARDORA may collect:
+
+* Display Name
+* Email Address
+* User ID
+
+Purpose:
+
+* Account creation
+* User authentication
+* Account management
+
+---
+
+# Financial Information
+
+Purchase history may be processed for:
+
+* Founder Membership
+* Early Supporter Membership
+* Pro Subscription
+
+Payment information is handled by Apple and is never stored by CARDORA.
+
+---
+
+# Photos and Camera
+
+CARDORA requests access to:
+
+* Camera
+* Photo Library
+
+Purpose:
+
+* Trading card scanning
+* Card recognition
+* Manual image import
+
+Images are processed only for card recognition and collection management.
+
+---
+
+# User Content
+
+The following information may be stored:
+
+* Card Collection
+* Wishlist
+* Favorites
+* Portfolio
+* Profile Settings
+
+Purpose:
+
+* Synchronization
+* Cloud Backup
+* Personalized user experience
+
+---
+
+# Authentication
+
+Supported authentication methods:
+
+* Email and Password
+* Google Sign-In
+* Sign in with Apple (when required by Apple)
+
+---
+
+# Third-Party Services
+
+CARDORA currently integrates with:
+
+* Supabase
+* Apple In-App Purchases
+* Google Sign-In
+* Pokémon TCG API
+
+Additional services may be introduced in future versions.
+
+---
+
+# Data Security
+
+CARDORA protects user information using:
+
+* HTTPS encryption
+* Secure authentication
+* Row Level Security (RLS)
+* Secure cloud storage
+* Access control
+
+---
+
+# User Rights
+
+Users may:
+
+* Access their personal information
+* Update account information
+* Delete their account
+* Request permanent removal of personal data
+
+---
+
+# Account Deletion
+
+Users may permanently delete their CARDORA account directly within the application.
+
+Additional information is available in the **Account Deletion Policy**.
+
+---
+
+# Apple Privacy Checklist
+
+* [ ] Data collection reviewed
+* [ ] Data sharing reviewed
+* [ ] Third-party services verified
+* [ ] Camera usage documented
+* [ ] Photo Library usage documented
+* [ ] Privacy Policy published
+* [ ] Privacy Labels completed
+
+---
+
+Last Updated:
+
+Version:
+
+1.0
+
+---
+
+© CARDORA
