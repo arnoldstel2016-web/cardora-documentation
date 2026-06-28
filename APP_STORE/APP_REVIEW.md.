@@ -1,0 +1,128 @@
+# CARDORA Apple App Review
+
+**Status:** Planned
+
+---
+
+# Overview
+
+This document tracks the requirements for submitting CARDORA to the Apple App Store.
+
+Its purpose is to ensure that the application complies with Apple's App Review Guidelines before public release.
+
+---
+
+# General Requirements
+
+Before submission, verify that:
+
+* The application launches successfully.
+* No crashes occur during normal use.
+* The user interface is responsive.
+* Performance is stable across supported devices.
+
+---
+
+# Authentication
+
+Supported authentication methods:
+
+* Email Sign In
+* Google Sign-In
+* Sign in with Apple (when required by Apple)
+
+Authentication should function correctly on all supported devices.
+
+---
+
+# Permissions
+
+Verify the following permissions:
+
+* Camera
+* Photo Library
+* Internet Access
+
+Only request permissions when required by the application.
+
+---
+
+# Purchases
+
+Verify:
+
+* Founder purchase
+* Early Supporter purchase
+* Pro Subscription
+* Restore Purchases
+* Membership synchronization
+
+---
+
+# Privacy
+
+Before submission:
+
+* Privacy Policy published
+* Account Deletion available
+* Privacy Labels completed
+* App Privacy information verified
+
+---
+
+# Store Listing
+
+Verify:
+
+* App Name
+* Subtitle
+* Description
+* Keywords
+* Screenshots
+* App Icon
+
+---
+
+# Compatibility
+
+Confirm compatibility with:
+
+* iPhone
+* iPad (if supported)
+* Latest iOS version
+* Previous supported iOS versions
+
+---
+
+# Compliance
+
+Verify compliance with:
+
+* App Store Review Guidelines
+* Human Interface Guidelines
+* Privacy requirements
+* Legal requirements
+
+---
+
+# Submission Checklist
+
+* [ ] Application tested
+* [ ] Store Listing completed
+* [ ] Privacy information completed
+* [ ] Purchases verified
+* [ ] No critical bugs
+* [ ] Submitted for Review
+* [ ] Approved by Apple
+
+---
+
+Last Updated:
+
+Version:
+
+1.0
+
+---
+
+© CARDORA
