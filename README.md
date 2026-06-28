@@ -2,61 +2,74 @@
 
 Welcome to the official CARDORA documentation.
 
-This documentation contains everything related to the development, legal compliance, platform releases, memberships, and technical architecture of CARDORA.
+This documentation contains everything related to the development, legal compliance, platform releases, memberships, technical architecture, and public release of CARDORA.
 
 ---
 
-## Documentation
+# Documentation
 
 ### 🚀 RELEASE
 
-Release planning, release checklist, changelog, version history and deployment documentation.
+Release planning, release checklists, changelog, version history, deployment, and launch documentation.
 
 ---
 
 ### ⚖️ LEGAL
 
-Privacy Policy, Terms of Service, Subscription Terms, Founder Terms, Early Supporter Terms and Account Deletion Policy.
+Privacy Policy, Terms of Service, Subscription Terms, Founder Terms, Early Supporter Terms, and Account Deletion Policy.
 
 ---
 
 ### 🤖 GOOGLE PLAY
 
-Google Play Billing, Data Safety, AdMob, Store Listing and Google Play release preparation.
+Google Play Billing, Data Safety, AdMob, Store Listing, Internal Testing, and Google Play release preparation.
 
 ---
 
 ### 🍎 APP STORE
 
-Apple App Store documentation, App Privacy, App Review and TestFlight preparation.
+Apple App Store documentation, App Privacy, App Review, TestFlight preparation, and iOS release documentation.
 
 ---
 
 ### 💻 DEVELOPMENT
 
-Technical architecture, authentication, database, scanner, memberships, APIs and internal development documentation.
+Technical architecture, authentication, database, scanner, APIs, memberships, security, deployment, and testing documentation.
 
 ---
 
 ### ❓ HELP
 
-FAQ, Help Center, Support and Troubleshooting documentation.
+Frequently Asked Questions, Help Center, Support, and Troubleshooting documentation.
 
 ---
 
 ### 🎨 BRAND
 
-Brand Guidelines, Certificates and Visual Identity.
+Brand Guidelines, Logo Usage, Color Palette, Founder Certificate, and Visual Identity.
 
 ---
 
 ### 📦 ARCHIVE
 
-Historical documentation and deprecated documents.
+Historical documentation, deprecated documents, and previous project materials.
 
 ---
 
-## Project Status
+# Quick Links
+
+## Most Frequently Used
+
+* Privacy Policy
+* Account Deletion
+* Google Play Documentation
+* Apple App Store Documentation
+* Development Documentation
+* Help Center
+
+---
+
+# Project Status
 
 Current Version
 
@@ -70,6 +83,22 @@ Primary Platform
 
 **Android**
 
+Future Platforms
+
+* iOS
+* Web
+
+---
+
+# Documentation Standards
+
+* All documentation is written in English.
+* Documentation must reflect the current implementation of CARDORA.
+* Legal documentation must remain synchronized with the application.
+* Platform documentation must remain synchronized with Google Play and Apple App Store requirements.
+* Documentation should be updated whenever application functionality changes.
+
 ---
 
 © CARDORA
+
