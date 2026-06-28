@@ -58,14 +58,10 @@ Historical documentation, deprecated documents, and previous project materials.
 
 # Quick Links
 
-## Most Frequently Used
+* [Privacy Policy](LEGAL/PRIVACY_POLICY.md)
+* [Terms of Service](LEGAL/TERMS_OF_SERVICE.md)
+* [Account Deletion](LEGAL/ACCOUNT_DELETION.md)
 
-* Privacy Policy
-* Account Deletion
-* Google Play Documentation
-* Apple App Store Documentation
-* Development Documentation
-* Help Center
 
 ---
 
